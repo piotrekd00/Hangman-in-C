@@ -1,0 +1,8 @@
+cane
+gatto
+criceto
+mucca
+gallina
+cazzo
+rana
+uccello

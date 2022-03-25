@@ -1,0 +1,8 @@
+cucurbit
+cucumber
+tomato
+potato
+cabbage
+courgette
+peppers
+lettuce

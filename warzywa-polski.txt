@@ -1,0 +1,8 @@
+kabaczek
+ogorek
+pomidor
+ziemniak
+kapusta
+cukinia
+papryka
+salata

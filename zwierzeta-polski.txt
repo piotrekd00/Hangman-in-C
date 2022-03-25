@@ -1,0 +1,8 @@
+pies
+kot
+chomik
+krowa
+kura
+kogut
+zaba
+ptak

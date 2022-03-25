@@ -1,0 +1,8 @@
+cucurbita
+cetriolo
+pomodoro
+patata
+cavolo
+zucchina
+peperoni
+lattuga

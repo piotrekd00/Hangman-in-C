@@ -1,0 +1,8 @@
+dog
+cat
+hamster
+cow
+hen
+cock
+frog
+bird

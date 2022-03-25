@@ -1,0 +1,8 @@
+fragola
+lampone
+mela
+arancione
+limone
+anguria
+melone
+pomelo

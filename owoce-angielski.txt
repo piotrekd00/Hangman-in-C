@@ -1,0 +1,8 @@
+strawberry
+raspberry
+apple
+orange
+lemon
+watermelon
+melon
+pomelo
